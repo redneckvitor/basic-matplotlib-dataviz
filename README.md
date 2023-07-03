@@ -10,4 +10,13 @@
   <img src="https://i.postimg.cc/nzPb173H/profits.png" />
 </p>
 
+<h2 align="center">
+  Downloads
+</h2>
+
+<p align="center">
+  <a href="https://github.com/redneckvitor/basic-matplotlib-dataviz/releases/download/Windows/DataViz.zip">Windows</a>
+</p>
+
+
 
